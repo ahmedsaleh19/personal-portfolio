@@ -1,0 +1,38 @@
+.containe {
+  text-align: center;
+  width: 100%;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: #09c;
+}
+.img-containe {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: aqua;
+  margin: 10px auto;
+}
+.img-containe .personal-img {
+  width: 100%;
+  height: 100%;
+}
+.containe h1 {
+  font-weight: 700;
+}
+
+.containe .divider{
+    width: 30%;
+    margin: 5px auto;
+}
+.about {
+  padding: 20px;
+}
+
+.about h2 {
+  font-weight: 600;
+}
+
+.skills {
+  background-color: #09c;
+}
